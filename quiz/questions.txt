@@ -1,0 +1,34 @@
+﻿Hình chữ nhật có bao nhiêu cạnh ?;
+1 cạnh;
+4 cạnh;
+6 cạnh;
+3 cạnh;
+2;
+|
+Thủ đô của Việt Nam là gì ?;
+Hà Nội;
+Hồ Chí Minh;
+Huế;
+Đà nẵng;
+1;
+|
+Việt Nam có bao nhiêu tỉnh thành ?;
+63 tỉnh thành;
+61 tỉnh thành;
+64 tỉnh thành;
+62 tỉnh thành;
+3
+|
+Hình tam giác có bao nhiêu góc ?;
+2 góc;
+4 góc;
+5 góc;
+3 góc;
+4;
+|
+Xe ô tô có bao nhiêu bánh ?;
+4 bánh;
+6 bánh;
+8 bánh;
+10 bánh;
+1;

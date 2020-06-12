@@ -1,0 +1,31 @@
+﻿{
+	"version": 1587468056,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/card-sheet0.png",
+		"images/cardholder-sheet0.png",
+		"media/btn.m4a",
+		"media/btn.ogg",
+		"media/epicfail.m4a",
+		"media/epicfail.ogg",
+		"media/epicwin1.m4a",
+		"media/epicwin1.ogg",
+		"media/match.m4a",
+		"media/match.ogg",
+		"media/no.m4a",
+		"media/no.ogg",
+		"media/ok.m4a",
+		"media/ok.ogg",
+		"media/swipe.m4a",
+		"media/swipe.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}

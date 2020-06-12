@@ -1,0 +1,32 @@
+﻿{
+	"version": 1587546494,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/pic-sheet0.png",
+		"images/icon_answer-sheet0.png",
+		"images/icon_answer-sheet1.png",
+		"images/icon_answer-sheet2.png",
+		"images/bar_answer-sheet0.png",
+		"images/btnreplay-sheet0.png",
+		"media/buzzer wrong answer .m4a",
+		"media/buzzer wrong answer .ogg",
+		"media/sound-correct.m4a",
+		"media/sound-correct.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"questions.txt",
+		"generator_config.txt",
+		"stylesheet.css",
+		"utm_facebook-demo.html",
+		"utm_facebook-webfont.woff",
+		"utm_facebook-webfont.woff2"
+	]
+}
